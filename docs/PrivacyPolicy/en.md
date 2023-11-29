@@ -9,9 +9,9 @@ This application does not provide the personal information of the user to a thir
 <br>
 
 ## In-app advertising
-This application uses Unity Ads as an advertisement distribution tool, and Unity Ads may automatically acquire user information.
+This application uses Unity Ads and Adfurikun as an advertisement distribution tool, and Unity Ads and Adfurikun may automatically acquire user information.
 <br>
 Please check the app privacy policy of the advertisement distributor for the information to be acquired, the purpose of use, provision to third parties, etc.
 
-Last updated: June 23, 2021
-© 2021 Johnkichi
+Last updated: November 29, 2023
+© 2023 Johnkichi
